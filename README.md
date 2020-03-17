@@ -1,4 +1,4 @@
-# NetCorePdfReports
+# Net Core Pdf Reports
 Demonstrates how to use PhantomJS to convert an HTML file to a PDF file in .NET Core, Windows or Linux, without expensive 3rd party libraries.  This example was created on Windows. You will need to install the Linux version of the exe on your target machine for this to work in a Linux environment.
 
 This is a simple example using a static HTML file.  For a real life application, you would generate the HTML dynamically that would be used as the input to the PhantomJS.exe command line instruction.  The command line takes three parameters:
